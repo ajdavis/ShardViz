@@ -1,0 +1,4 @@
+Watch a MongoDB sharded cluster rebalancing its data distribution.
+
+Built with Tornado and my Tornado-compatibility wrapper around pymongo. Both
+exercises pymongo with Tornado, and adds eye-candy to MongoDB sharding demos.
